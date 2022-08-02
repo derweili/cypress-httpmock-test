@@ -1,0 +1,19 @@
+.App {
+  background-color: #282c34;
+  color: white;
+  padding: 2em;
+  font-size: 2em;
+}
+
+.unis {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  list-style: none;
+}
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
